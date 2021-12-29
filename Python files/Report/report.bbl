@@ -1,0 +1,14 @@
+\begin{thebibliography}{1}
+
+\bibitem{kohonen1991self}
+Teuvo Kohonen.
+\newblock Self-organizing maps: ophmization approaches.
+\newblock In {\em Artificial neural networks}, pages 981--990. Elsevier, 1991.
+
+\bibitem{kohonen1997exploration}
+Teuvo Kohonen.
+\newblock Exploration of very large databases by self-organizing maps.
+\newblock In {\em Proceedings of international conference on neural networks
+  (icnn'97)}, volume~1, pages PL1--PL6. IEEE, 1997.
+
+\end{thebibliography}
