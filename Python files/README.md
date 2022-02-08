@@ -54,7 +54,6 @@ Note: All the .py files should be in the same directory
 
 # References:
 
-1. [Term Project Report](report.pdf), MIES Group 2, Autimn 2021, IIT Kharagpur.
-2. Teuvo Kohonen. Self-organizing maps: ophmization approaches. In Artificial neural networks, pages 981–990. Elsevier, 1991.
-3. Teuvo Kohonen. Exploration of very large databases by self-organizing maps. In Proceedings of international conference on neural networks (icnn’97), volume 1, pages PL1–PL6. IEEE, 1997.
+1. Teuvo Kohonen. Self-organizing maps: ophmization approaches. In Artificial neural networks, pages 981–990. Elsevier, 1991.
+2. Teuvo Kohonen. Exploration of very large databases by self-organizing maps. In Proceedings of international conference on neural networks (icnn’97), volume 1, pages PL1–PL6. IEEE, 1997.
 
